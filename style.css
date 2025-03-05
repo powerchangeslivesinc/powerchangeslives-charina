@@ -534,7 +534,7 @@ nav.charina_menu > ul > li > a:hover span {
 =========================================**/
 
 .hero-section {
-    background: url(assets/images/slider/hero-bg1.jpg);
+    background: url(assets/images/family1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
@@ -3922,11 +3922,11 @@ span.flaticon-multiply i {
  ==================================================-*/
 
 .breatcam-section {
-    background: url(assets/images/resource/breatcome-bg.png);
+    background: url(assets/images/family1.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
-    height: 450px;
+    height: 700px;
     z-index: 1;
     position: relative;
 }
